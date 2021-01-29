@@ -34,7 +34,23 @@
     <a
       class="black-link"
       href="https://github.com/{{ social.github | cgi_escape | escape }}"
-    > [Github]</a
+    > [GitHub]</a
+    >
+  </li>
+  {%- endif -%} {%- if social.gitlab -%}
+  <li>
+    <a
+      class="black-link"
+      href="https://gitlab.com/{{ social.gitlab | cgi_escape | escape }}"
+    > [GitLab]</a
+    >
+  </li>
+  {%- endif -%} {%- if social.email -%}
+  <li>
+    <a
+      class="black-link"
+      href="mailto:{{ social.email | cgi_escape | escape }}"
+    > [Email]</a
     >
   </li>
   {%- endif -%} {%- if social.instagram -%}

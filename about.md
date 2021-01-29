@@ -2,9 +2,10 @@
 layout: about
 ---
 
-These are controlled by `about.md` under the root directory. If you want a more diverse self-introduction, you can insert the markdown content you want here.
+I'm Michele, nice to meet you!
 
-### What's New
+As a computer scientist, I really like doing stuff related to video compression formats and programming languages.
 
-- One paper got accepted in xxx 2019.
-- I'm going to join xxx as a xxx 2019 Fall.
+In my spare time, I usually play D&D 5.0 with my friends and others collaborative games.
+
+What I dislike, you say? Habits and fashion, they are so boring!
