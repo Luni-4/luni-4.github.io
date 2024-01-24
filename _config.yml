@@ -18,7 +18,7 @@ moving:
 
   # generate social links in about page.
   social_links:
-    twitter: luni_4_
+    #twitter: luni_4_
     github: Luni-4
     gitlab: Luni-4
     email: luni-4@hotmail.it
