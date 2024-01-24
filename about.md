@@ -56,17 +56,16 @@ two parts.
 
 This is how **Luni-4** was born.
 
-For what concerns my skills as coder, I really love programming in the
-multimedia field, particularly with videos, and you can find below a list of
-tools and libraries I would like to implement:
+For what concerns my interests in the programming world, I really love
+writing code for multimedia software, especially the ones which process videos.
+Below you can find a list of arguments I am interested in:
 
 - Audio and video format parsers
 - Video compression codecs
 - Inpainting algorithms
 - AI neural networks to process audio and video
-- GUI widgets, such as players, audio viewers, and subtitle table viewer to
-visualize and interact more easily with this kind of data
+- GUI widgets, such as players, audio viewers, and subtitle table viewer
 
-Some of the points described above are still working in progress, but along the
-course of time, I am sure I will develop some of them in Rust language to make
-them real.
+Some of the items described above are done, while others are still working
+in progress, but I am sure one day I will be able to develop all of them
+in Rust language.
