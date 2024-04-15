@@ -16,11 +16,13 @@ continui colpi al tronco potrebbero rovinarne la corteccia.
 
 Il vincitore è il giocatore che ottiene per primo almeno **10** punti.
 
-Quando il palo viene colpito da una distanza maggiore di **3** metri, si
-ottiene un punteggio di **3** punti, altrimenti di **1** punto.
+Quando il palo viene colpito da una distanza maggiore di **8** metri, si
+ottiene un punteggio di **3** punti, altrimenti di **1** punto. La distanza che
+consente di ottenere il punteggio di 3 punti può essere modificata dai
+giocatori all'inizio della partita.
 
 La distanza dal palo può essere calcolata approssimativamente usando come punti
-di riferimento gli oggetti presenti nel luogo dove si sta giocando.
+di riferimento gli oggetti presenti nel luogo in cui si sta giocando.
 
 Il Gioco del Palo si compone di diversi giri. Il numero di giri non è definito
 a priori e dipende solamente dal tempo impiegato da un giocatore per arrivare ad
@@ -57,6 +59,14 @@ combinate tra loro senza particolari problemi.
 almeno 10 punti. Questa regola ha come obiettivo quello di creare una classifica
 tra i giocatori. Un giocatore è quindi fuori dal gioco solo quando ha ottenuto
 10 o più punti.
+- Se la palla si ferma troppo vicino al palo, è molto più facile per un
+giocatore fare punti. Per evitare questo tipo di situazione, si può stabilire
+una **distanza minima**. Quando la palla supera la distanza minima
+consentita, essa **deve** essere posizionata **esattamente** alla distanza
+minima. Questa variante ha come obiettivo principale quello di giocare
+una partita bilanciata in termini di difficoltà.
+In modo da avere la distanza minima sempre visibile, una possibile soluzione
+potrebbe essere quella di tracciare un cerchio intorno al palo.
 - La palla **non deve** essere calciata **esattamente** dalla **stessa**
 posizione dove il giocatore precedente l'aveva lanciata. Un giocatore può
 immediatamente calciare la palla non appena colpisce o manca il palo, rendendo
